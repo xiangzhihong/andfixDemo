@@ -1,0 +1,2 @@
+include ':app','AndFix'
+project(':AndFix').projectDir = new File('Libary/AndFix')
