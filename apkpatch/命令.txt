@@ -1,0 +1,2 @@
+D:\Program Files\Android\sdk\tools\apkpatch>apkpatch -f new.apk -t old.apk -o ou
+tput -k xzh.jks -p 19881205 -a keyalias -e 19881205
